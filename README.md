@@ -1,4 +1,4 @@
-# PM_Modi_International_Visits_PowerBI_Dashboard
+# PM Modi International Visits PowerBI Dashboard
 
 ## The Most Trending Topic on the Internet Today: Indian Prime Minister Narendra Modi's Visit to Ukraine August 2024
 
