@@ -4,7 +4,7 @@
 
 So, as a data analyst, I thought, why not analyze the data of Modi's visits to different countries?
 
-**PS:** In my dashboard today, I implemented a new feature: dark and light themes.
+**PS:** In my dashboard today, I implemented a new feature: **dark and light themes**.
 
 Okay, let's dive into our data and see the analysis results.
 
